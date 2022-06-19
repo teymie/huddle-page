@@ -95,6 +95,7 @@ h3 {
   color: hsl(208, 11%, 55%);
 }
 .p-3 {
+  margin-top: 3rem;
   display: flex;
   justify-content: end;
   text-align: end;
