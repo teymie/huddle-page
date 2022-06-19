@@ -305,7 +305,7 @@ a .bi:hover {
     width: 18rem;
   }
   .subscribe {
-    bottom: 83rem;
+    bottom: 80rem;
   }
 }
 @media only screen and (max-width: 414px) {
@@ -328,7 +328,7 @@ a .bi:hover {
     width: 18rem;
   }
   .subscribe {
-    bottom: 82rem;
+    bottom: 78rem;
   }
 }
 @media only screen and (max-width: 400px) {
