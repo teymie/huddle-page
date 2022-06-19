@@ -304,9 +304,6 @@ a .bi:hover {
   h1 {
     width: 18rem;
   }
-  .subscribe {
-    bottom: 85rem;
-  }
 }
 @media only screen and (max-width: 414px) {
   .heading-container {
