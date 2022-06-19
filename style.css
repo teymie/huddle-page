@@ -95,7 +95,6 @@ h3 {
   color: hsl(208, 11%, 55%);
 }
 .p-3 {
-  margin-top: 6rem;
   display: flex;
   justify-content: end;
   text-align: end;
@@ -306,7 +305,7 @@ a .bi:hover {
     width: 18rem;
   }
   .subscribe {
-    bottom: 98rem;
+    bottom: 85rem;
   }
 }
 @media only screen and (max-width: 414px) {
